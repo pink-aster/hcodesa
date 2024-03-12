@@ -21,6 +21,8 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - run: npm install
       - run: npm run build-ci
+      - run: npm run build-ci
+      - run: ls -la
       - name: Deploy
         uses: actions/checkout@v3
         with:
@@ -31,6 +33,4 @@ jobs:
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
           NETLIFY_DEPLOY_MESSAGE: "Prod deploy v${{ github.ref }}"
           build_command: npm run build-ci
-          - run: npm run build-ci
-          - run: ls -la
           NETLIFY_DEPLOY_TO_PROD: true
