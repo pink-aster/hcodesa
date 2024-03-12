@@ -29,3 +29,5 @@ Apart from stress testing hardware, GIMPS has made significant contributions to 
 ## Conclusion
 
 GIMPS is a remarkable project that demonstrates the power of distributed computing in stress testing modern hardware. By harnessing the collective computing power of volunteers, GIMPS not only contributes to the search for Mersenne primes but also helps identify potential hardware issues. Through this collaborative effort, GIMPS continues to push the boundaries of what is possible in both mathematics and computer hardware.
+
+{% include "ads/ad-banner.njk" %}

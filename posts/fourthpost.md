@@ -11,6 +11,8 @@ In today's digital landscape, securing your website with SSL (Secure Sockets Lay
 
 ## Let's explore some free SSL alternatives:
 
+{% include "ads/ad-banner.njk" %}
+
 ### 1. Let's Encrypt
 
 Let's Encrypt is a widely popular and trusted certificate authority that provides free SSL certificates. It offers automated certificate issuance and renewal, making it easy to secure your website. Let's Encrypt certificates are recognized by all major browsers and provide the same level of encryption as paid certificates.
