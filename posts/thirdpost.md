@@ -1,5 +1,5 @@
 ---
-title: Packet Injections: Enhancing Network Security
+title: Packet Injections -  Enhancing Network Security
 description: Learn about the concept of packet injections and how they can be used to strengthen network security.
 date: 2024-03-11
 scheduled: 2024-03-11
