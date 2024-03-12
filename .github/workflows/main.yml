@@ -31,4 +31,6 @@ jobs:
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
           NETLIFY_DEPLOY_MESSAGE: "Prod deploy v${{ github.ref }}"
           build_command: npm run build-ci
+          - run: npm run build-ci
+          - run: ls -la
           NETLIFY_DEPLOY_TO_PROD: true
