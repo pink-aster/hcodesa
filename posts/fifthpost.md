@@ -1,5 +1,5 @@
 ---
-title: GIMPS Computer Power Contribution: Stress Testing Modern Hardware
+title: GIMPS- Power sharing and stress testing
 description: Learn how GIMPS utilizes computer power to stress test modern hardware.
 date: 2024-03-05
 scheduled: 2024-03-12
