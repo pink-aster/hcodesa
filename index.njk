@@ -8,9 +8,11 @@ date: Last Modified
 <p>
   My name is Hrishikesh and I am currently preparing for undergrad exams. I will be writing on this blog once in a while.
 </p>
-
+{% include "ads/ad-banner.njk" %}
 <div id="posts">
   <h2>Posts</h2>
   {% set postslist = collections.posts %}
   {% include "postslist.njk" %}
 </div>
+
+{% include "ads/ad-banner.njk" %}
