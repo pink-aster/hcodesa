@@ -4,7 +4,6 @@ description: Learn how GIMPS utilizes computer power to stress test modern hardw
 date: 2024-03-05
 scheduled: 2024-03-12
 layout: layouts/post.njk
-draft: false
 ---
 
 ## Introduction

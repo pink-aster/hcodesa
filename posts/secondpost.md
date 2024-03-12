@@ -3,8 +3,7 @@ title: Quantum computing will break the internet
 description: The idea of quantum computing if sufficiently powerful , can break the strongest encryption known to man in mere minutes.
 date: 2024-03-11
 scheduled: 2024-03-11
-tags:
-  - SHOR,Quantum-Computing
+tags: SHOR,Quantum-Computing
 layout: layouts/post.njk
 ---
 Quantum computing is a revolutionary field that has the potential to completely transform the way we process information. Unlike classical computers that use bits to represent information as either 0 or 1, quantum computers use quantum bits or qubits, which can exist in multiple states simultaneously.
